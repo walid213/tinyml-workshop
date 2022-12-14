@@ -19,16 +19,16 @@ Search for "Nano 33 BLE" and install the Arduino nRF528x Boards (Mbed OS) defini
 ### Arduino Libraries        
 Install the following Arduino libraries using the Library manager:
 
-* TensorFlow Lite library (search for "Arduino_TensorFlowLite")
+* TensorFlow Lite library (search for "Harvard_TinyMLx Arduino Library")
 * Arduino LSM9DS1 library (search for "Arduino_LSM9DS1")
 
 Open the library manager using the menu _Tools ->  Manage Libraries..._
 
 ![Arduino Library Manager Menu](images/ManageLibraries.png)
 
-Search for "Arduino_TensorFlowLite". Click the row and press the __Install__ button to install TensorFlow Lite for Microcontrollers
+Search for "Harvard_TinyMLx Arduino Library". Click the row and press the __Install__ button to install TensorFlow Lite for Microcontrollers
 
-![Arduino TensorFlow Lite library](images/library-tensorflowlite.png)
+![Arduino TensorFlow Lite library](images/library-Harvard.png)
 
 Search for "Arduino_LSM9DS1". Click the row and press the __Install__ button to install the Arduino LSM9DS1 accelerometer, magnetometer, and gyroscope library. 
 
